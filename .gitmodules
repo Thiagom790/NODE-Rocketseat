@@ -1,3 +1,6 @@
 [submodule "03-desafio01-node-fundamentos"]
 	path = 03-desafio01-node-fundamentos
 	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio01.git
+[submodule "04-desafio02-node-middlewares"]
+	path = 04-desafio02-node-middlewares
+	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio02.git
