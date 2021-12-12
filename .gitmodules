@@ -4,3 +4,6 @@
 [submodule "04-desafio02-node-middlewares"]
 	path = 04-desafio02-node-middlewares
 	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio02.git
+[submodule "05-desafio03-node-correcao-bugs"]
+	path = 05-desafio03-node-correcao-bugs
+	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio03.git
