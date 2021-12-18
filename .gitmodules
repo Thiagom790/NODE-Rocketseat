@@ -7,3 +7,6 @@
 [submodule "05-desafio03-node-correcao-bugs"]
 	path = 05-desafio03-node-correcao-bugs
 	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio03.git
+[submodule "08-desafio04-node-solid-typescript"]
+	path = 08-desafio04-node-solid-typescript
+	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio04.git
