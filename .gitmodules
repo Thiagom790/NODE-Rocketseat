@@ -10,3 +10,6 @@
 [submodule "08-desafio04-node-solid-typescript"]
 	path = 08-desafio04-node-solid-typescript
 	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio04.git
+[submodule "10-desafio05-database-queries"]
+	path = 10-desafio05-database-queries
+	url = https://github.com/Thiagom790/NODE-Rocketseat-Desafio05.git
